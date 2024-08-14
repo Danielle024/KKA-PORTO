@@ -354,6 +354,19 @@ nav ul li a {
   line-height: 2rem;
 }
 
+.skills-right {
+  padding: 1rem;
+  background-color: var(--secondaryBackgroundColor);
+  color: var(--textColor);
+  border-radius: 8px;
+}
+
+.skills-right p {
+  text-wrap: wrap;
+  margin: 0;
+  line-height: 1.8rem;
+}
+
 /* Footer */
 footer {
   background-color: #1e1e1e;
